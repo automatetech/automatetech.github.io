@@ -1,5 +1,5 @@
 
-import { Button } from "@/components/ui/button";
+// import { Button } from "@/components/ui/button";
 
 export function Hero() {
   return (
@@ -9,7 +9,7 @@ export function Hero() {
       </h1>
       <p className="text-lg text-[var(--color-text-muted)]">
         Automate connects automotive service providers and vehicle owners through a smart, seamless platform designed to simplify operations, boost visibility, and grow customer relationships. 
-        Whether you're a neighborhood garage or a national chain, Automate adapts to your needs
+        Whether you&aposre a neighborhood garage or a national chain, Automate adapts to your needs
         with powerful tools that scale. Launch in minutes, save hours every day.
       </p>
       {/* <div className="space-x-4">

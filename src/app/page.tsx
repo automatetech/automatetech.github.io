@@ -1,8 +1,8 @@
 
 import { Navbar } from "@/components/navbar";
 import { Hero } from "@/components/sections/hero";
-import { Features } from "@/components/sections/features";
-import { ValueProp } from "@/components/sections/value-prop";
+// import { Features } from "@/components/sections/features";
+// import { ValueProp } from "@/components/sections/value-prop";
 import { Footer } from "@/components/sections/footer";
 
 export default function Home() {
