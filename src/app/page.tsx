@@ -6,7 +6,7 @@ import { Hero } from "@/components/sections/hero";
 import { Footer } from "@/components/sections/footer";
 
 export const metadata = {
-  title: "automate",
+  title: "Automate | Revolutionizing Automotive Service Management",
   description: "Revolutionizing Automotive Service Management",
 }
 
