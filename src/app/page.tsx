@@ -14,9 +14,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-[var(--color-surface)] text-[var(--color-text)]">
       <Navbar />
-      <div className="flex-grow">
-        <Hero />
-      </div>
+      <Hero />
       {/* <Features /> */}
       {/* <ValueProp /> */}
       <Footer />

@@ -3,7 +3,7 @@
 
 export function Hero() {
   return (
-    <section className="text-center py-20 space-y-6 max-w-3xl mx-auto flex-grow">
+    <section className="text-center py-20 space-y-6 max-w-3xl mx-auto flex-grow flex flex-col justify-center">
       <h1 className="text-4xl font-bold text-[var(--color-text-primary)]">
         Revolutionizing Automotive Service Management
       </h1>
